@@ -50,15 +50,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ivan.stresec@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qF_dFYoAAAAJ&hl=en
@@ -71,6 +65,12 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/istresec
+    # label: Follow me on Twitter
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
