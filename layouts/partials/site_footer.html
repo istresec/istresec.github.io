@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
+
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+
+  <p class="powered-by">
+    {{ if not site.Params.i_am_a_sponsor }}
+    My website is powered by  
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Wowchemy</a> &ndash; a free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> web builder based on <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>.
+    {{ end }}
+
+	<br></br>
+  </p>
+</footer>

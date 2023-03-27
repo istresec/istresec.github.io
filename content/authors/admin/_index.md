@@ -36,13 +36,13 @@ interests:
 education:
   courses:
     - course: MSc in Computer Science
-      institution: UniZg-FER
+      institution: University of Zagreb, Croatia
       year: 2022
     - course: Visiting Erasmus+ Graduate Student
       institution: KTH Royal Institute of Technology
       year: 2021
     - course: BSc in Computer Science
-      institution: UniZg-FER
+      institution: University of Zagreb, Croatia
       year: 2020
 
 # Social/Academic Networking
@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ivan.stresec@gmail.com'
+    link: /#contact
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qF_dFYoAAAAJ&hl=en
@@ -70,7 +70,7 @@ social:
     link: https://twitter.com/istresec
     # label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-I am Ivan Stresec, a recently graduated M.Sc. in Computer Science looking for a Ph.D. position. I am most interested in applied machine learning (ML) research: developing models that can use the structure of the data to solve domain-specific problems and making ML models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021. Currently, I am working on developing survival prediction models for liver transplantation.
+I am Ivan Stresec, a recently graduated M.Sc. in Computer Science from Croatia, looking for a Ph.D. position. I am most interested in applied machine learning (ML) research: developing models that can use the structure of the data to solve domain-specific problems and making ML models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021. Currently, I am working on developing survival prediction models for liver transplantation.
 {style="text-align: justify;"}

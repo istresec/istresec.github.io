@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: my_theme
+  theme_night: my_theme
   font: minimal
   font_size: L
 
@@ -45,7 +45,7 @@ footer:
   copyright:
     notice: '© {year} Ivan Stresec.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/istresec/istresec.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -86,13 +86,13 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+  # search:
+  #   provider:
+  #   algolia:
+  #     app_id: ''
+  #     api_key: ''
+  #     index_name: ''
+  #     show_logo: false
   map:
     provider: ''
     api_key: ''
