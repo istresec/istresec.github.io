@@ -6,7 +6,7 @@ title: 'Predicting the transport properties of silicene nanoribbons using a neur
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Tin  Župančić
-  - Ivan Stresec
+  - admin
   - Mirko Poljak
 
 # Author notes (optional)
@@ -30,7 +30,7 @@ publication_types: ['1']
 publication: In *2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)*
 publication_short: In *MIPRO 2020*
 
-abstract:
+abstract: Atomistic quantum transport simulations are used to generate the electronic and transport properties of 10,000 realistic silicene nanoribbons (SiNRs) with edge defects. This ensemble of 20 nm-long and 2.1 nm-wide SiNRs is divided into the training and inference set for the artificial neural network (ANN) employed for the prediction of edge-defect-limited carrier mobility from the known values of bandgap and nanoribbon conductance. We find that an optimized ANN with 3 hidden layers can predict SiNR mobility values and variability histograms with acceptable accuracy, thus providing a useful supplement to atomistic quantum transport simulations that take several hours or days for large device ensemble sizes.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -40,14 +40,6 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
 url_pdf: 'https://ieeexplore.ieee.org/document/9245136'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
 
 ---

@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. in Computer Science
+role: MSc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Looking for a Ph.D.!
+  - name: Looking for a PhD!
     url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,8 +38,8 @@ education:
     - course: MSc in Computer Science
       institution: University of Zagreb, Croatia
       year: 2022
-    - course: Visiting Erasmus+ Graduate Student
-      institution: KTH Royal Institute of Technology
+    - course: Visiting Graduate Student
+      institution: KTH Royal Institute of Technology, Sweden
       year: 2021
     - course: BSc in Computer Science
       institution: University of Zagreb, Croatia
@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-I am Ivan Stresec, a recently graduated M.Sc. in Computer Science from Croatia, looking for a Ph.D. position. I am most interested in applied machine learning (ML) research: developing models that can use the structure of the data to solve domain-specific problems and making ML models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021. Currently, I am working on developing survival prediction models for liver transplantation.
+I am Ivan Stresec, a recently graduated MSc in Computer Science from Croatia, looking for a Ph.D. position. I am most interested in applied machine learning (ML) research: developing models that can use the structure of the data to solve domain-specific problems and making ML models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021. Currently, I am working on developing survival prediction models for liver transplantation.
 {style="text-align: justify;"}

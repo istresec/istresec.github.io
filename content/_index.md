@@ -28,10 +28,9 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
     design:
       columns: '2'
-      view: card
+      view: citation
 
   - block: contact
     id: contact
