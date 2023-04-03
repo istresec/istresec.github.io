@@ -73,3 +73,9 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# Remove share buttons for publications.
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
