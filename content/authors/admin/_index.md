@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc in Computer Science
+role: Junior Researcher at UniZg-FER
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,6 +30,7 @@ interests:
   - Biomedical Machine Learning
   - Natural Language Processing
   - Out-of-Distribution Generalization
+  - Model Interpretability
   - Foundation Models
 
 # Education to show in About widget
@@ -82,5 +83,8 @@ email: ''
 highlight_name: true
 ---
 
-I am Ivan Stresec, a recently graduated MSc in Computer Science from Croatia, looking for a Ph.D. position. I am most interested in applied machine learning (ML) research: developing models that can use the structure of the data to solve domain-specific problems and making ML models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021. Currently, I am working on developing survival prediction models for liver transplantation.
+I am Ivan Stresec, a recently graduated MSc in Computer Science from Croatia, looking for a Ph.D. position. I am most interested in interdisciplinary applied machine learning research: developing models that can use the structure of the data to solve domain-specific problems and making models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021.
+{style="text-align: justify;"}
+
+As a researcher at UniZg-FER, I work on reliable survival prediction models for liver transplantation.
 {style="text-align: justify;"}
