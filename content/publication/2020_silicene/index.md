@@ -11,8 +11,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'These authors contributed to the work equally.'
+  - 'These authors contributed to the work equally.'
 
 date: '2020-09-28T00:00:00Z'
 doi: ''
