@@ -34,10 +34,10 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-	- course: PhD in Bioinformatics
-	  institution: TU Delft
-	  year: Present
+courses:
+    - course: PhD in Bioinformatics
+      institution: TU Delft
+      year: Ongoing
     - course: MSc in Computer Science
       institution: University of Zagreb, Croatia
       year: 2022
