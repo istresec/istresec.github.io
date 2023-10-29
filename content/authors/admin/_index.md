@@ -14,28 +14,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Junior researcher at UniZg-FER
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Looking for a PhD!
-    url:
+  - name: TU Delft, the Delft Bioinformatics Lab
+    url: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: Recently graduated and looking for a PhD in applied ML.
+bio: A PhD candidate at TU Delft, working on explainable multimodal ML.
 
 # Interests to show in About widget
 interests:
   - Applied Machine Learning
-  - Biomedical Machine Learning
-  - Natural Language Processing
+  - Bioinformatics
+  - Model Interpretability and Explainability
   - Out-of-Distribution Generalization
-  - Model Interpretability
   - Foundation Models
 
 # Education to show in About widget
 education:
   courses:
+	- course: PhD in Bioinformatics
+	  institution: TU Delft
+	  year: Present
     - course: MSc in Computer Science
       institution: University of Zagreb, Croatia
       year: 2022
@@ -83,8 +85,8 @@ email: ''
 highlight_name: true
 ---
 
-I am Ivan Stresec, a recently graduated MSc in Computer Science from Croatia, looking for a PhD position. I am most interested in interdisciplinary applied machine learning research: developing models that can use the structure of the data to solve domain-specific problems and making models more reliable and transparent. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021.
+I am Ivan Stresec, a PhD candidate at TU Delft. I finished my studies at the [University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/en) (UniZg-FER) in 2022. I was also a visiting graduate student at the [KTH Royal Institute of Technology](https://www.kth.se/en) in 2021.
 {style="text-align: justify;"}
 
-As a researcher at UniZg-FER, I work on reliable survival prediction models for liver transplantation.
+As a PhD candidate at TU Delft, I am working on the topic of multimodal machine learning for molecular maps of human tissue.
 {style="text-align: justify;"}
